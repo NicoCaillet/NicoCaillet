@@ -1,7 +1,5 @@
 ### Hi, nice to meet you, my name is Nicolas! 👋
 
-<!--
-**NicoCaillet/NicoCaillet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome to my github. 
 Feel free to see my projects and to contact me aswell!
