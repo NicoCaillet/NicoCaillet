@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, nice to meet you, my name is Nicolas! 👋
 
 <!--
 **NicoCaillet/NicoCaillet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my github. 
+Feel free to see my projects and to contact me aswell!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: nicolascailletbois3@gmail.com
+Linkdin: https://www.linkedin.com/in/nicolas-caillet-bois-0554ba1b6/
+
+Im actually looking for work proposals, challenges and new oportunities.
+
+Regards!
+Nico. 
+👋👋👋
