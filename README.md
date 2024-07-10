@@ -1,5 +1,5 @@
 ### Hi, nice to meet you, my name is Nicolas! 👋
-#I've been using other github usernames throughout my progamming carrer, but down below you have some of my next js templates and other projects.
+# I've been using other github usernames throughout my progamming carrer, but down below you have some of my next js templates and other projects.
 
 
 Email: nicolascailletbois3@gmail.com
